@@ -4,6 +4,10 @@
   "description": "Sanitize strings to Windows, Linux, URL slug and filename safe paths",
   "version": "0.0.1",
   "publisher": "JeremyJohn",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeremyjohn/vscode-path-sanitizer.git"
+  },
   "engines": {
     "vscode": "^1.120.0"
   },
